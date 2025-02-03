@@ -1,0 +1,3 @@
+References:
+1.CS747:Lecture Slides
+2.Sutton and Barto

@@ -1,0 +1,4 @@
+References:
+1.CS747:Lecture Slides
+2.The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond, Aurélien Garivier, Olivier Cappé
+3.Sutton and Barto
